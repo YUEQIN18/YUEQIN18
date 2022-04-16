@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Java
+
+📫 How to reach me: qinyue12345@gmail.com
 <!--
 **YUEQIN18/YUEQIN18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
