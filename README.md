@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java
+🌱 Java Software Development Engineer
 
 📫 How to reach me: qinyue12345@gmail.com
 <!--
